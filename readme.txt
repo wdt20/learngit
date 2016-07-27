@@ -1,2 +1,1 @@
-Git is good software¡£
-Git is hello world.
+µÂÌÎ¸ç¸ç×î°ô£¡
