@@ -1,2 +1,2 @@
 Git is a version control system.
-hahahahhaha
+Git is hello world.
